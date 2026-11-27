@@ -7,10 +7,11 @@ Runs on schedule via GitHub Actions.
 <!-- LANGS:START -->
 | Rank | Language | Repos | Share |
 |---:|---|---:|---|
-| 🥇 | C++ | 4 | ████░░░░░░ 44% |
-| 🥈 | Python | 2 | ██░░░░░░░░ 22% |
-| 🥉 | TypeScript | 2 | ██░░░░░░░░ 22% |
-| 4 | JavaScript | 1 | █░░░░░░░░░ 11% |
+| 🥇 | C++ | 4 | ████░░░░░░ 40% |
+| 🥈 | Python | 2 | ██░░░░░░░░ 20% |
+| 🥉 | TypeScript | 2 | ██░░░░░░░░ 20% |
+| 4 | Go | 1 | █░░░░░░░░░ 10% |
+| 5 | JavaScript | 1 | █░░░░░░░░░ 10% |
 
-_Primary languages across 10 public repos · updated 2026-11-27 08:46 UTC via GitHub REST API_
+_Primary languages across 13 public repos · updated 2026-11-27 21:26 UTC via GitHub REST API_
 <!-- LANGS:END -->
